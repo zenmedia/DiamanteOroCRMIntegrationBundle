@@ -23,7 +23,7 @@
   ],
   "require": {
     "php": ">=5.4.4",
-    "oro/crm": "1.8.*",
+    "oro/crm": "2.*",
     "diamante/desk-bundle": "self.version",
     "diamante/user-bundle": "self.version",
     "diamante/api-bundle": "self.version",
